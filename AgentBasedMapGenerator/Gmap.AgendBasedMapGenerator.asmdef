@@ -1,0 +1,16 @@
+{
+    "name": "Gmap.AgendBasedMapGenerator",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e3d0195ff90226c44a12663109cdcfb7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
